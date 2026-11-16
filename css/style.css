@@ -1635,6 +1635,25 @@ html:not(.js) .pv-bar {
   }
 }
 
+@media (max-width: 640px) {
+  .footer__actions {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.6rem;
+    width: 100%;
+  }
+
+  .copy-email {
+    grid-column: 1 / -1;
+    width: 100%;
+    justify-content: space-between;
+  }
+
+  .icon-btn {
+    width: 100%;
+  }
+}
+
 /* =========================================================
    PÁGINA DE PROJETOS
    ========================================================= */

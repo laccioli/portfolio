@@ -9,8 +9,8 @@
 window.TRANSLATIONS = {
   pt: {
     /* ---------- Meta ---------- */
-    "meta.title.index": "Leonardo Duailibi — Backend, Infra & IA Aplicada",
-    "meta.title.projects": "Projetos — Leonardo Duailibi",
+    "meta.title.index": "Leonardo Duailibi",
+    "meta.title.projects": "Leonardo Duailibi",
     "meta.description":
       "Portfólio de Leonardo Duailibi: backend, infraestrutura, APIs assíncronas e agentes de IA.",
 
@@ -114,8 +114,8 @@ window.TRANSLATIONS = {
 
   en: {
     /* ---------- Meta ---------- */
-    "meta.title.index": "Leonardo Duailibi — Backend, Infra & Applied AI",
-    "meta.title.projects": "Projects — Leonardo Duailibi",
+    "meta.title.index": "Leonardo Duailibi",
+    "meta.title.projects": "Leonardo Duailibi",
     "meta.description":
       "Leonardo Duailibi's portfolio: backend, infrastructure, async APIs and AI agents.",
 
